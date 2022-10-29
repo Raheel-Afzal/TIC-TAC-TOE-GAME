@@ -1,0 +1,8 @@
+C:\Users\rajar\source\6th Semester\PDC\Sir Umar\TIC TAC TO GAME\Server(tic-tac-to)\Server(tic-tac-to)\bin\Debug\Server(tic-tac-to).exe.config
+C:\Users\rajar\source\6th Semester\PDC\Sir Umar\TIC TAC TO GAME\Server(tic-tac-to)\Server(tic-tac-to)\bin\Debug\Server(tic-tac-to).exe
+C:\Users\rajar\source\6th Semester\PDC\Sir Umar\TIC TAC TO GAME\Server(tic-tac-to)\Server(tic-tac-to)\bin\Debug\Server(tic-tac-to).pdb
+C:\Users\rajar\source\6th Semester\PDC\Sir Umar\TIC TAC TO GAME\Server(tic-tac-to)\Server(tic-tac-to)\obj\Debug\Server(tic-tac-to).csproj.AssemblyReference.cache
+C:\Users\rajar\source\6th Semester\PDC\Sir Umar\TIC TAC TO GAME\Server(tic-tac-to)\Server(tic-tac-to)\obj\Debug\Server(tic-tac-to).csproj.SuggestedBindingRedirects.cache
+C:\Users\rajar\source\6th Semester\PDC\Sir Umar\TIC TAC TO GAME\Server(tic-tac-to)\Server(tic-tac-to)\obj\Debug\Server(tic-tac-to).csproj.CoreCompileInputs.cache
+C:\Users\rajar\source\6th Semester\PDC\Sir Umar\TIC TAC TO GAME\Server(tic-tac-to)\Server(tic-tac-to)\obj\Debug\Server(tic-tac-to).exe
+C:\Users\rajar\source\6th Semester\PDC\Sir Umar\TIC TAC TO GAME\Server(tic-tac-to)\Server(tic-tac-to)\obj\Debug\Server(tic-tac-to).pdb
